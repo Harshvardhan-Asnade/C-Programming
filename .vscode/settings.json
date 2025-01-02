@@ -21,7 +21,8 @@
     "FACTORIAL.C": "cpp",
     "SwAPEOF2WITHOUTTHIREDVABLE.C": "cpp",
     "printvaulewithaddress.C": "cpp",
-    "CHANGETHEVALUEUSINGPOINTER.C": "cpp"
+    "CHANGETHEVALUEUSINGPOINTER.C": "cpp",
+    "game.C": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
