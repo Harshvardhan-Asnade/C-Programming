@@ -17,7 +17,7 @@ This project demonstrates fundamental C programming concepts, including **Functi
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-link>
+    git clone <https://github.com/Harshvardhan-Asnade/C-Programming.git>
     ```
 
 2. **Navigate to the project directory**:
@@ -40,14 +40,14 @@ This project demonstrates fundamental C programming concepts, including **Functi
 ## 📁 File Structure
 
 ```
-project/
-│
-│   ├── functions/      # Functions
-│   ├── pointers/       # Pointers
-│   ├── patterns/       # Pattern printing
-│   ├── if esle/        # if esle
-│   ├──  loop/      # loop
-├── README.md           # Documentation
+├── if_else/        # Implementations of if-else and basic control structures  
+├── loops/          # Loops and related concepts  
+├── pattern_painting/ # Pattern printing examples  
+├── functions/      # Examples of functions and function usage  
+├── arrays/         # Array manipulation and related concepts  
+├── dsa/            # Data structures and algorithms implementations  
+├── README.md       # Project documentation  
+└── LICENSE         # License information  
  
  
  
