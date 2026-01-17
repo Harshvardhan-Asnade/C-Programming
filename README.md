@@ -13,28 +13,6 @@ This project demonstrates fundamental C programming concepts, including **Functi
 
 ---
 
-## 🛠️ Getting Started
-
-1. **Clone the repository**:
-    ```bash
-    git clone <https://github.com/Harshvardhan-Asnade/C-Programming.git>
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd project-directory
-    ```
-
-3. **Compile the code**:
-    ```bash
-    gcc -o project *.c
-    ```
-
-4. **Run the program**:
-    ```bash
-    ./project
-    ```
-
 ---
 
 ## 📁 File Structure
